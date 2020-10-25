@@ -48,7 +48,7 @@ Just clone or download the project and run it on your web browser.
 
 ## Credits
 
-- [Jorge Sant'Ana](www.jorgesantana.net.br)
+- [Jorge Sant'Ana](https://www.jorgesantana.net.br)
 - [@filimor](https://github.com/filimor/)
 
 ## Contact
