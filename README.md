@@ -17,6 +17,10 @@
 
 A very basic personal budget app using only browser's local storage. It was made in the ['Desenvolvimento Web Completo 2020 - 20 cursos + 20 projetos'](https://www.udemy.com/course/web-completo/) Udemy's course (by Jailton Damasceno and Jorge Sant'Ana).
 
+<p align="center">
+ <img src="screenshot.png" width="50%" />
+</p>
+
 ## Usage
 
 <a href="#">
