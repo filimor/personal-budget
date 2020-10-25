@@ -47,7 +47,7 @@ Basta clonar ou fazer o download do projeto e rodá-lo em seu navegadpr.
 
 ## Créditos
 
-- [Jorge Sant'Ana](www.jorgesantana.net.br)
+- [Jorge Sant'Ana](https://www.jorgesantana.net.br)
 - [@filimor](https://github.com/filimor/)
 
 ## Contato
