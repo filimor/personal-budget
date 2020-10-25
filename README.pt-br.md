@@ -17,6 +17,10 @@
 
 Um app bem básico de orçamento pessoal usando somente o Local Storage do navegador. Foi feito no curso da Udemy ['Desenvolvimento Web Completo 2020 - 20 cursos + 20 projetos'](https://www.udemy.com/course/web-completo/) (por Jailton Damasceno e Jorge Sant'Ana).
 
+<p align="center">
+ <img src="screenshot.png" width="50%" />
+</p>
+
 ## Como usar
 
 <a href="#">
